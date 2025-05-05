@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+sample1,raw/sample1_R1.fq.gz,raw/sample1_R2.fq.gz,auto
+sample2,raw/sample2_R1.fq.gz,raw/sample2_R2.fq.gz,auto
+sample3,raw/sample3_R1.fq.gz,raw/sample3_R2.fq.gz,auto
+sample4,raw/sample4_R1.fq.gz,raw/sample4_R2.fq.gz,auto
+sample5,raw/sample5_R1.fq.gz,raw/sample5_R2.fq.gz,auto
+sample6,raw/sample6_R1.fq.gz,raw/sample6_R2.fq.gz,auto
