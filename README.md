@@ -7,6 +7,6 @@ Instructions for the exercise:
 - Use “example_sample_sheet.csv” as “input”.
 - Use “genome_file.fasta” as “fasta”.
 - Use “genes_coordinates.gff” as “gff”.
-- Donwload the parameter file and follow the instructions to try to run the pipeline on your laptop using the “-preview” option.
+- Donwload the parameter file and follow the instructions to try to run the pipeline on your laptop adding the “-preview” and "-profile singularity" option.
 - If you feel brave, try to set options to run the **pink** workflow instead of the default one.
 
