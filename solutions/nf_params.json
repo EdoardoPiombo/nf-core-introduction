@@ -1,0 +1,6 @@
+{
+    "input": "example_sample_sheet.csv",
+    "outdir": "results",
+    "fasta": "genome_file.fasta",
+    "gff": "genes_coordinates.gff"
+}
